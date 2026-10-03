@@ -1,0 +1,6 @@
+{
+  "name": "StudyLock",
+  "description": "Commercial-grade study controller with focused timer sessions, active app switching distraction blocker, SIMS LMS and school platform sync, Google Drive integration, OCR note scanner, AI decks, and AdMob monetization.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

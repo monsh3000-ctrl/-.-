@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">StudyLock</string>
+    <string name="accessibility_service_description">StudyLock monitors foreground apps to enforce screen time limits earned through active study sessions.</string>
+    <string name="screen_time_locked_title">Screen Time Locked</string>
+    <string name="screen_time_locked_subtitle">Your earned screen time has been exhausted. Complete a study session to unlock more time.</string>
+    <string name="start_study_session">Start Study Session</string>
+
+    <!-- Google Services & Firebase App ID resources to prevent missing ID warnings -->
+    <string name="google_app_id" translatable="false">1:684096953785:android:c15694335a9473a9ae03e3</string>
+    <string name="gcm_defaultSenderId" translatable="false">684096953785</string>
+    <string name="default_web_client_id" translatable="false">684096953785.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://studylock.firebaseio.com</string>
+    <string name="google_api_key" translatable="false">AIzaSyB31StudyLockAppKey0000000000000000</string>
+    <string name="project_id" translatable="false">studylock-applet</string>
+</resources>
